@@ -6186,3 +6186,6 @@ ul.blog-pagenation {
 
 
 }
+.over-loader {
+    display: none !important;
+}
